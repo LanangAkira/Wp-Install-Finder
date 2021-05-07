@@ -29,7 +29,7 @@ $ python update.py
 Error 403 = Firewall in Website <br />
 Error 500 = Server not Responding / Connection Error
 
-### ScreenShot
-![shot](https://i.imgur.com/ejsvxcg.png)
-![shot](https://i.imgur.com/IxKpzoD.png)
+### IMG
+![shot](https://imgur.com/7AOMqgDl.png)
+![shot](https://yt3.ggpht.com/ytc/AAUvwni9jYeP1fVi4CVbyd5T0OmzyhSZjwAHZajW5PcEng=s900-c-k-c0x00ffffff-no-rj)
 
