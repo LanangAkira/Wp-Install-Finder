@@ -10,7 +10,7 @@ import time
 import socket
 import os
 print("\n\033[32;1m# WP-Install Expoloiter By L4N4N9_4K1R4\033[0m")
-print("\033[32;1mGithub : https://github/whoami-45\n\033[0m")
+print("\033[32;1mGithub : https://github/LanangAkira\n\033[0m")
 target = input("Url: \33[1;0m")
 print("")
 #Basic filter of input
@@ -77,9 +77,9 @@ print("\33[93;1mScan took {} seconds to complete\n".format(script_time))
 print("\33[91;1m### \33[93;1mResults \33[91;1m###\33[1;0m")
 if len(yay) == 0:
     print("\33[94;1m!!! No Results !!!")
-    os.system('python3 find.py')   
+    os.system('python3 wp.py')   
 else:
     for y in yay:
         print(y)    
 print("\33[91;1m##################################\033[0m")
-os.system('python3 find.py')   
+os.system('python3 wp.py')   
