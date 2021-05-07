@@ -15,3 +15,9 @@
 /public/wp-admin/install.php
 /public/wp/wp-admin/install.php
 /public/wordpress/wp-admin/install.php
+/wp-admin/install.php
+/wp-admin/wp-admin-install.php
+/wp/wp-admin-install.php
+/wordpress/wp-admin-install.php
+/wp-admin-install.php
+/wp-install.php
