@@ -15,10 +15,10 @@ Recode By: [L4N4N9_4K1R4](https://github.com/LanangAkira)
 
 ## Installation
 ```sh
-$ git clone https://github.com/whoami-45/kc-find
-$ cd kc-find
+$ git clone https://github.com/LanangAkira/Wp-Install-Finder
+$ cd Wp-Install-Finder
 $ pip3 install -r requirements.txt
-$ python3 find.py
+$ python3 wp.py
 ```
 ##### Update Wordlist
 ```sh
