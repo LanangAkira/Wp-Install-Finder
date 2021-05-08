@@ -40,9 +40,9 @@ async def fetch(url, session):
             print("\33[97;1mFound It >->  \33[1;0m{}\33[97;1m  Status {}".format(response.url, status))
             yay.append(response.url)
         elif status == 404:
-            print("\33[91;1mxXx \33[94;1m{}\33[91;1m Status {}".format(response.url, status))
+            print("\33[91;1m>_< \33[94;1m{}\33[91;1m Status {}".format(response.url, status))
         elif status == 403:
-            print("\33[91;1mxXx \33[94;1m{}\33[91;1m Status \33[95;1m{}".format(response.url, status))
+            print("\33[91;1m>_< \33[94;1m{}\33[91;1m Status \33[95;1m{}".format(response.url, status))
         else:
             print("\33[95;1m??? {} Status {}".format(response.url, status))
         return await response.read()
