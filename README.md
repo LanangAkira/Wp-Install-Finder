@@ -32,7 +32,7 @@ Error 500 = Server not Responding / Connection Error
 ### IMG
 ![shot](https://imgur.com/mm0zwFS.png)
 
-###Spesial Thanks
+### Spesial Thanks
 [TheFuzzyRabbit](https://github.com/FuzzyRabbit)<br />
 [Unknown45](https://github.com/whoami-45)
 
