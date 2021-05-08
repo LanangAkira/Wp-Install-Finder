@@ -2,7 +2,7 @@
 **This script is recode from admin-san project.**
 
 Written by: [TheFuzzyRabbit](https://github.com/FuzzyRabbit) [@rabbit_fuzzy] <br />
-Insp by: [Unknown45](https://github.com/whoami-45)
+Insp by: [Unknown45](https://github.com/whoami-45) <br />
 Recode By: [L4N4N9_4K1R4](https://github.com/LanangAkira)
 ##### PREREQUISITES
 * Python 3.x 
@@ -31,5 +31,9 @@ Error 500 = Server not Responding / Connection Error
 
 ### IMG
 ![shot](https://imgur.com/mm0zwFS.png)
-![shot](https://yt3.ggpht.com/ytc/AAUvwni9jYeP1fVi4CVbyd5T0OmzyhSZjwAHZajW5PcEng=s900-c-k-c0x00ffffff-no-rj)
+
+###Spesial Thanks
+[TheFuzzyRabbit](https://github.com/FuzzyRabbit)<br />
+[Unknown45](https://github.com/whoami-45)
+
 
