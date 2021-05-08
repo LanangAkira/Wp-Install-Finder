@@ -10,7 +10,7 @@ import time
 import socket
 import os
 print("\n\033[32;1m# WP-Install Exploiter By L4N4N9_4K1R4\033[0m")
-print("\033[32;1mGithub : https://github/LanangAkira\n\033[0m")
+print("\033[32;1mGithub : https://github.com/LanangAkira\n\033[0m")
 target = input("Url: \33[1;0m")
 print("")
 #Basic filter of input
