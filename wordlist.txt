@@ -5,9 +5,6 @@
 /wordpress/install.php
 /wp-admin/wp-content/install.php
 /wp-content/wp-admin/install.php
-/blog/wp-admin/install.php
-/blog/wp/wp-admin/install.php
-/blog/wordpress/wp-admin/install.php
 /blog/wordpress/install.php
 /web/wp-admin/install.php
 /web/wp/wp-admin/install.php
@@ -15,9 +12,14 @@
 /public/wp-admin/install.php
 /public/wp/wp-admin/install.php
 /public/wordpress/wp-admin/install.php
-/wp-admin/install.php
 /wp-admin/wp-admin-install.php
 /wp/wp-admin-install.php
 /wordpress/wp-admin-install.php
 /wp-admin-install.php
 /wp-install.php
+/users/wp-admin/install.php
+/users/wordpress/wp-admin/install.php
+/users/wp/wp-admin/install.php
+/data/wp-admin/install.php
+/data/wp/wp-admin/install.php
+/data/wordpress/wp-admin/install.php
