@@ -23,3 +23,9 @@
 /data/wp-admin/install.php
 /data/wp/wp-admin/install.php
 /data/wordpress/wp-admin/install.php
+/assets/wp-admin/install.php
+/assets/wp/wp-admin/install.php
+/assets/wordpress/wp-admin/install.php
+/asset/wp-admin/install.php
+/asset/wp/wp-admin/install.php
+/asset/wordpress/wp-admin/install.php
