@@ -16,7 +16,6 @@
 /wp/wp-admin-install.php
 /wordpress/wp-admin-install.php
 /wp-admin-install.php
-/wp-install.php
 /users/wp-admin/install.php
 /users/wordpress/wp-admin/install.php
 /users/wp/wp-admin/install.php
@@ -29,3 +28,4 @@
 /asset/wp-admin/install.php
 /asset/wp/wp-admin/install.php
 /asset/wordpress/wp-admin/install.php
+/wp/install.php
