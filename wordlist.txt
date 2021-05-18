@@ -6,6 +6,9 @@
 /wp-admin/wp-content/install.php
 /wp-content/wp-admin/install.php
 /blog/wordpress/install.php
+/blog/wp-admin/install.php
+/blog/wp/wp-admin/install.php
+/blog/wordpress/wp-admin/install.php
 /web/wp-admin/install.php
 /web/wp/wp-admin/install.php
 /web/wordpress/wp-admin/install.php
