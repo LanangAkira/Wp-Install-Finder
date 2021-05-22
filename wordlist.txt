@@ -32,3 +32,7 @@
 /asset/wp/wp-admin/install.php
 /asset/wordpress/wp-admin/install.php
 /wp/install.php
+/cms/wp-admin/install.php
+/cms/wp/wp-admin/install.php
+/cms/wordpress/wp-admin/install.php
+/cms/wordpress/install.php
