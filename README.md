@@ -23,7 +23,7 @@ $ python3 wp.py
 ##### Update Wordlist
 ```sh
 $ apt install wget
-$ python update.py
+$ python3 update.py
 ```
 #### Note
 Error 403 = Firewall in Website <br />
