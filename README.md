@@ -21,10 +21,10 @@ $ pip3 install -r requirements.txt
 $ python3 wp.py
 ```
 ##### How To Use it?
-*Single Site WP Install Finder*
-- python3 wp.py
-*Mass Wp Install Finder?*
-- php wp.php list.txt
+*Single Site WP Install Finder*<br />
+- python3 wp.py <br />
+*Mass Wp Install Finder?* <br />
+- php wp.php list.txt<br />
 Output hasil.txt
 ##### Update Wordlist
 ```sh
