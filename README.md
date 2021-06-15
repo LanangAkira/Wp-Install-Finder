@@ -20,6 +20,12 @@ $ cd Wp-Install-Finder
 $ pip3 install -r requirements.txt
 $ python3 wp.py
 ```
+##### How To Use it?
+*Single Site WP Install Finder*
+- python3 wp.py
+*Mass Wp Install Finder?*
+- php wp.php list.txt
+Output hasil.txt
 ##### Update Wordlist
 ```sh
 $ apt install wget
