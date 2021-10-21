@@ -6,11 +6,11 @@
 system("clear");
 
 function head() {
-	echo "## Mass Wp-Install Finder | By UNKNOWN45 <3\nhttps://github.com/whoami-45";
+	echo "## Mass Wp-Install Finder | L4N4N9_4K1R4 | AnonSec Team";
 }
 head();
 
-$wordlist = file_get_contents("wordlist.txt");
+$wordlist = file_get_contents("wordlah.txt");
 if (empty($wordlist) && filesize($wordlist) == "0") {
 	echo "\nWordlist Kosong !!!\n";
 	exit();
